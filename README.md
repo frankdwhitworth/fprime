@@ -1,6 +1,6 @@
 <p align="center">
 <img width="230em" src="docs/img/fprime-logo.png"><br/>
-<h2 align="center">A Flight-Proven, Multi-Platform, Open-Source Flight Software Framework</h2>
+<h2 align="center">A Flight-Proven, Multi-Platform, Open-Source Flight Software Framework (FORKED)</h2>
 </p>
 
 #
